@@ -1,0 +1,2 @@
+# Este notebook contiene la exploración de datos inicial y el análisis descriptivo.
+# Ejemplo: Visualización de las características de los datos y sus relaciones.

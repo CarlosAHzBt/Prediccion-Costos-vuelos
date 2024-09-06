@@ -1,0 +1,2 @@
+# Esta carpeta contiene material de referencia utilizado para entender mejor el problema o la metodología.
+# Ejemplo: Artículos sobre técnicas de modelado utilizadas en el proyecto.

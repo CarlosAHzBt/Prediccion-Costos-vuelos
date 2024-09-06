@@ -1,0 +1,2 @@
+# Esta carpeta contiene los informes y visualizaciones generadas durante el proyecto.
+# Ejemplo: Un informe final con los resultados del modelo y gráficos de desempeño.
